@@ -12,3 +12,17 @@ D:\programs\.net\Test62\day4\obj\Debug\netcoreapp3.1\day4.csproj.CoreCompileInpu
 D:\programs\.net\Test62\day4\obj\Debug\netcoreapp3.1\day4.dll
 D:\programs\.net\Test62\day4\obj\Debug\netcoreapp3.1\day4.pdb
 D:\programs\.net\Test62\day4\obj\Debug\netcoreapp3.1\day4.genruntimeconfig.cache
+D:\programs\.net\Test62\EmpWage\bin\Debug\netcoreapp3.1\day4.exe
+D:\programs\.net\Test62\EmpWage\bin\Debug\netcoreapp3.1\day4.deps.json
+D:\programs\.net\Test62\EmpWage\bin\Debug\netcoreapp3.1\day4.runtimeconfig.json
+D:\programs\.net\Test62\EmpWage\bin\Debug\netcoreapp3.1\day4.runtimeconfig.dev.json
+D:\programs\.net\Test62\EmpWage\bin\Debug\netcoreapp3.1\day4.dll
+D:\programs\.net\Test62\EmpWage\bin\Debug\netcoreapp3.1\day4.pdb
+D:\programs\.net\Test62\EmpWage\obj\Debug\netcoreapp3.1\day4.csproj.AssemblyReference.cache
+D:\programs\.net\Test62\EmpWage\obj\Debug\netcoreapp3.1\day4.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\.net\Test62\EmpWage\obj\Debug\netcoreapp3.1\day4.AssemblyInfoInputs.cache
+D:\programs\.net\Test62\EmpWage\obj\Debug\netcoreapp3.1\day4.AssemblyInfo.cs
+D:\programs\.net\Test62\EmpWage\obj\Debug\netcoreapp3.1\day4.csproj.CoreCompileInputs.cache
+D:\programs\.net\Test62\EmpWage\obj\Debug\netcoreapp3.1\day4.dll
+D:\programs\.net\Test62\EmpWage\obj\Debug\netcoreapp3.1\day4.pdb
+D:\programs\.net\Test62\EmpWage\obj\Debug\netcoreapp3.1\day4.genruntimeconfig.cache
