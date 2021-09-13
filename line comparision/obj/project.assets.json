@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\programs\\.net\\Test62\\day4\\day4.csproj",
-      "projectName": "day4",
-      "projectPath": "D:\\programs\\.net\\Test62\\day4\\day4.csproj",
+      "projectUniqueName": "D:\\programs\\.net\\Test62\\line comparision\\line comparision.csproj",
+      "projectName": "line comparision",
+      "projectPath": "D:\\programs\\.net\\Test62\\line comparision\\line comparision.csproj",
       "packagesPath": "C:\\Users\\Akash\\.nuget\\packages\\",
-      "outputPath": "D:\\programs\\.net\\Test62\\day4\\obj\\",
+      "outputPath": "D:\\programs\\.net\\Test62\\line comparision\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Akash\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,8 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
