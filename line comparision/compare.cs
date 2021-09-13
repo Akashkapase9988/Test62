@@ -30,9 +30,9 @@ namespace line_comparision
 
             // formula for length of line
             var line1 = Math.Sqrt(Math.Pow((x1 - x), 2) + Math.Pow((y1 - y), 2));
-
+            //
             var line2 = Math.Sqrt(Math.Pow((a1 - a), 2) + Math.Pow((b1 - b), 2));
-
+            //
             Console.WriteLine("--------------------------------------------------------------------------------------");
             Console.WriteLine("Length of line1 is : " + line1);
             Console.WriteLine("--------------------------------------------------------------------------------------");
