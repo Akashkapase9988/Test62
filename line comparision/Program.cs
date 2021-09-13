@@ -10,6 +10,9 @@ namespace line_comparision
            // linelength.Llength();
             equal.equqlMethod();
             //compare.comparemethod();
+            //
+            //
+            //
         }
     }
 }
