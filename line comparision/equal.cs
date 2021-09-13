@@ -42,6 +42,8 @@ namespace line_comparision
             if (line1.Equals(line2))
                 Console.WriteLine("both line are equal");
             else
+         //
+                //
                 Console.WriteLine("Both line have different length");
         }
     }
