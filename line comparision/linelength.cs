@@ -9,7 +9,7 @@ namespace line_comparision
         
         public static void Llength()
         {
-
+            //hi
             Console.WriteLine("Enter coordinate point for line one");
             Console.Write("point for x : ");
             int x = Convert.ToInt32(Console.ReadLine()); 
